@@ -1,0 +1,41 @@
+
+body{
+    text-align: center;
+    background-color: #a9d7e9;
+}
+h1{
+    font-size: 48px;
+}
+p{
+    font-size: 22px;
+}
+.formrows{
+    position: static;
+    display: block;
+}
+.master-style{
+  margin: auto;
+  width: 800px;
+  background-color: #f3f3f3;
+  border-radius: 10px;
+  padding: 20px 10px 10px 10px;
+}
+.fields{
+  display: inline-block;
+  text-align: left;
+  width: 48%;
+  vertical-align: middle;
+}
+.labels {
+    display: inline-block;
+    text-align: right;
+    width: 40%;
+    padding: 5px;
+    vertical-align: middle;
+    margin-top: 1px;
+  }
+  .button{
+      font-size: 15px;
+      background-color: rgb(108, 228, 228);
+  }
+  
